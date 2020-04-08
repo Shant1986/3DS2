@@ -24,9 +24,9 @@ On 23 February 2017, EBA in cooperation with the European Central Bank (ECB) pub
 
 ## 2: Strong Customer Authentication (SCA)
 
-<p align="center"><div style="width: 450px; height: 300px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:450px; height:300px" src="https://www.lucidchart.com/documents/embeddedchart/01fc702d-edf2-4028-8ec9-5579ecdd074f" id="9EcxWS-ld~cA"></iframe></div></p>
+<div style="width: 500px; height: 350px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:400px; height:350px" src="https://www.lucidchart.com/documents/embeddedchart/01fc702d-edf2-4028-8ec9-5579ecdd074f" id="9EcxWS-ld~cA"></iframe></div>
 
-<p align="center">[Diagram Source](https://www.lucidchart.com/documents/embeddedchart/01fc702d-edf2-4028-8ec9-5579ecdd074f)</p>
+[Diagram Source](https://www.lucidchart.com/documents/embeddedchart/01fc702d-edf2-4028-8ec9-5579ecdd074f)
 
 ### 2.1 Explanation of SCA
 
@@ -42,7 +42,7 @@ SCA must also be applied to all electronic payments, unless one of the exemption
 ## 3: 3DS2 Frictionless Authentication
 3DS2 allows businesses and their payment provider to send more data elements on each transaction to the cardholder’s bank. This includes payment-specific data like the shipping address, as well as contextual data, such as the customer’s device ID or previous transaction history.
 
-<div style="width: 400px; height: 200px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:400px; height:200px" src="https://www.lucidchart.com/documents/embeddedchart/002adeab-8afb-488f-b5da-ec931d05c1b0" id="LCcxcZK3Va-a"></iframe></div>
+<div style="width: 500px; height: 350px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:500px; height:350px" src="https://www.lucidchart.com/documents/embeddedchart/002adeab-8afb-488f-b5da-ec931d05c1b0" id="LCcxcZK3Va-a"></iframe></div>
 
 [Diagram Source](https://www.lucidchart.com/documents/embeddedchart/002adeab-8afb-488f-b5da-ec931d05c1b0)
 
