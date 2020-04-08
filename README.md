@@ -24,9 +24,9 @@ On 23 February 2017, EBA in cooperation with the European Central Bank (ECB) pub
 
 ## 2: Strong Customer Authentication (SCA)
 
-<div style="width: 400px; height: 200px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:400px; height:200px" src="https://www.lucidchart.com/documents/embeddedchart/01fc702d-edf2-4028-8ec9-5579ecdd074f" id="9EcxWS-ld~cA"></iframe></div>
+<p align="center"><div style="width: 450px; height: 300px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:450px; height:300px" src="https://www.lucidchart.com/documents/embeddedchart/01fc702d-edf2-4028-8ec9-5579ecdd074f" id="9EcxWS-ld~cA"></iframe></div></p>
 
-[Diagram Source](https://www.lucidchart.com/documents/embeddedchart/01fc702d-edf2-4028-8ec9-5579ecdd074f)
+<p align="center">[Diagram Source](https://www.lucidchart.com/documents/embeddedchart/01fc702d-edf2-4028-8ec9-5579ecdd074f)</p>
 
 ### 2.1 Explanation of SCA
 
