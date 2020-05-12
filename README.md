@@ -24,7 +24,7 @@ On 23 February 2017, EBA in cooperation with the European Central Bank (ECB) pub
 
 ## 2: Strong Customer Authentication (SCA)
 
-<div style="width: 290px; height: 160px; margin-left: auto; margin-right: auto; position: relative;"><iframe allowfullscreen frameborder="0" style="width:290px; height:160px" src="https://www.lucidchart.com/documents/embeddedchart/01fc702d-edf2-4028-8ec9-5579ecdd074f" id="YQeYCfxbsrma"></iframe></div>
+<div style="width: 640px; height: 480px; margin-left: auto; margin-right: auto; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://www.lucidchart.com/documents/embeddedchart/01fc702d-edf2-4028-8ec9-5579ecdd074f" id="YQeYCfxbsrma"></iframe></div>
 
 [Diagram Source](https://www.lucidchart.com/documents/embeddedchart/01fc702d-edf2-4028-8ec9-5579ecdd074f)
 
@@ -42,7 +42,7 @@ SCA must also be applied to all electronic payments, unless one of the exemption
 ## 3: 3DS2 Frictionless Authentication
 3DS2 allows businesses and their payment provider to send more data elements on each transaction to the cardholder’s bank. This includes payment-specific data like the shipping address, as well as contextual data, such as the customer’s device ID or previous transaction history.
 
-<div style="width: 290px; height: 160px; margin-left: auto; margin-right: auto; position: relative;"><iframe allowfullscreen frameborder="0" style="width:290px; height:160px" src="https://www.lucidchart.com/documents/embeddedchart/002adeab-8afb-488f-b5da-ec931d05c1b0" id="xVeYqCde8SwS"></iframe></div>
+<div style="width: 640px; height: 480px; margin-left: auto; margin-right: auto; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://www.lucidchart.com/documents/embeddedchart/002adeab-8afb-488f-b5da-ec931d05c1b0" id="xVeYqCde8SwS"></iframe></div>
 [Diagram Source](https://www.lucidchart.com/documents/embeddedchart/002adeab-8afb-488f-b5da-ec931d05c1b0)
 
 #### 3.1 3DS2 Risk Assessment
